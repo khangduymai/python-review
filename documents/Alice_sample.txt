@@ -1,0 +1,1 @@
+('Welcome to my Nightmare', 'Alice Cooper', 1975, ((1, 'Welcome to my Nightmare'), (2, "Devil's Food"), (3, 'The Black Widow')))

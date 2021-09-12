@@ -1,0 +1,426 @@
+AD: Andorra: 		Europe/Andorra: 2021-09-03 13:51:04.499842+02:00
+AE: United Arab Emirates: 		Asia/Dubai: 2021-09-03 15:51:04.499842+04:00
+AF: Afghanistan: 		Asia/Kabul: 2021-09-03 16:21:04.500843+04:30
+AG: Antigua & Barbuda: 		America/Antigua: 2021-09-03 07:51:04.500843-04:00
+AI: Anguilla: 		America/Anguilla: 2021-09-03 07:51:04.500843-04:00
+AL: Albania: 		Europe/Tirane: 2021-09-03 13:51:04.501844+02:00
+AM: Armenia: 		Asia/Yerevan: 2021-09-03 15:51:04.501844+04:00
+AO: Angola: 		Africa/Luanda: 2021-09-03 12:51:04.502845+01:00
+AQ: Antarctica: 		Antarctica/Casey: 2021-09-03 22:51:04.502845+11:00
+		Antarctica/Davis: 2021-09-03 18:51:04.502845+07:00
+		Antarctica/DumontDUrville: 2021-09-03 21:51:04.503845+10:00
+		Antarctica/Mawson: 2021-09-03 16:51:04.503845+05:00
+		Antarctica/McMurdo: 2021-09-03 23:51:04.504856+12:00
+		Antarctica/Palmer: 2021-09-03 08:51:04.504856-03:00
+		Antarctica/Rothera: 2021-09-03 08:51:04.504856-03:00
+		Antarctica/Syowa: 2021-09-03 14:51:04.505848+03:00
+		Antarctica/Troll: 2021-09-03 13:51:04.505848+02:00
+		Antarctica/Vostok: 2021-09-03 17:51:04.506848+06:00
+AR: Argentina: 		America/Argentina/Buenos_Aires: 2021-09-03 08:51:04.506848-03:00
+		America/Argentina/Catamarca: 2021-09-03 08:51:04.507850-03:00
+		America/Argentina/Cordoba: 2021-09-03 08:51:04.507850-03:00
+		America/Argentina/Jujuy: 2021-09-03 08:51:04.508850-03:00
+		America/Argentina/La_Rioja: 2021-09-03 08:51:04.508850-03:00
+		America/Argentina/Mendoza: 2021-09-03 08:51:04.508850-03:00
+		America/Argentina/Rio_Gallegos: 2021-09-03 08:51:04.509850-03:00
+		America/Argentina/Salta: 2021-09-03 08:51:04.509850-03:00
+		America/Argentina/San_Juan: 2021-09-03 08:51:04.510851-03:00
+		America/Argentina/San_Luis: 2021-09-03 08:51:04.510851-03:00
+		America/Argentina/Tucuman: 2021-09-03 08:51:04.510851-03:00
+		America/Argentina/Ushuaia: 2021-09-03 08:51:04.511852-03:00
+AS: Samoa (American): 		Pacific/Pago_Pago: 2021-09-03 00:51:04.511852-11:00
+AT: Austria: 		Europe/Vienna: 2021-09-03 13:51:04.512853+02:00
+AU: Australia: 		Antarctica/Macquarie: 2021-09-03 21:51:04.512853+10:00
+		Australia/Adelaide: 2021-09-03 21:21:04.513854+09:30
+		Australia/Brisbane: 2021-09-03 21:51:04.514855+10:00
+		Australia/Broken_Hill: 2021-09-03 21:21:04.514855+09:30
+		Australia/Darwin: 2021-09-03 21:21:04.514855+09:30
+		Australia/Eucla: 2021-09-03 20:36:04.515855+08:45
+		Australia/Hobart: 2021-09-03 21:51:04.515855+10:00
+		Australia/Lindeman: 2021-09-03 21:51:04.516856+10:00
+		Australia/Lord_Howe: 2021-09-03 22:21:04.516856+10:30
+		Australia/Melbourne: 2021-09-03 21:51:04.517857+10:00
+		Australia/Perth: 2021-09-03 19:51:04.517857+08:00
+		Australia/Sydney: 2021-09-03 21:51:04.518858+10:00
+AW: Aruba: 		America/Aruba: 2021-09-03 07:51:04.518858-04:00
+AX: Åland Islands: 		Europe/Mariehamn: 2021-09-03 14:51:04.518858+03:00
+AZ: Azerbaijan: 		Asia/Baku: 2021-09-03 15:51:04.519859+04:00
+BA: Bosnia & Herzegovina: 		Europe/Sarajevo: 2021-09-03 13:51:04.519859+02:00
+BB: Barbados: 		America/Barbados: 2021-09-03 07:51:04.520860-04:00
+BD: Bangladesh: 		Asia/Dhaka: 2021-09-03 17:51:04.520860+06:00
+BE: Belgium: 		Europe/Brussels: 2021-09-03 13:51:04.521860+02:00
+BF: Burkina Faso: 		Africa/Ouagadougou: 2021-09-03 11:51:04.521860+00:00
+BG: Bulgaria: 		Europe/Sofia: 2021-09-03 14:51:04.521860+03:00
+BH: Bahrain: 		Asia/Bahrain: 2021-09-03 14:51:04.522861+03:00
+BI: Burundi: 		Africa/Bujumbura: 2021-09-03 13:51:04.522861+02:00
+BJ: Benin: 		Africa/Porto-Novo: 2021-09-03 12:51:04.522861+01:00
+BL: St Barthelemy: 		America/St_Barthelemy: 2021-09-03 07:51:04.523862-04:00
+BM: Bermuda: 		Atlantic/Bermuda: 2021-09-03 08:51:04.523862-03:00
+BN: Brunei: 		Asia/Brunei: 2021-09-03 19:51:04.524863+08:00
+BO: Bolivia: 		America/La_Paz: 2021-09-03 07:51:04.524863-04:00
+BQ: Caribbean NL: 		America/Kralendijk: 2021-09-03 07:51:04.524863-04:00
+BR: Brazil: 		America/Araguaina: 2021-09-03 08:51:04.525864-03:00
+		America/Bahia: 2021-09-03 08:51:04.525864-03:00
+		America/Belem: 2021-09-03 08:51:04.526865-03:00
+		America/Boa_Vista: 2021-09-03 07:51:04.526865-04:00
+		America/Campo_Grande: 2021-09-03 07:51:04.526865-04:00
+		America/Cuiaba: 2021-09-03 07:51:04.527865-04:00
+		America/Eirunepe: 2021-09-03 06:51:04.527865-05:00
+		America/Fortaleza: 2021-09-03 08:51:04.528866-03:00
+		America/Maceio: 2021-09-03 08:51:04.528866-03:00
+		America/Manaus: 2021-09-03 07:51:04.529867-04:00
+		America/Noronha: 2021-09-03 09:51:04.529867-02:00
+		America/Porto_Velho: 2021-09-03 07:51:04.529867-04:00
+		America/Recife: 2021-09-03 08:51:04.530868-03:00
+		America/Rio_Branco: 2021-09-03 06:51:04.530868-05:00
+		America/Santarem: 2021-09-03 08:51:04.531869-03:00
+		America/Sao_Paulo: 2021-09-03 08:51:04.531869-03:00
+BS: Bahamas: 		America/Nassau: 2021-09-03 07:51:04.532870-04:00
+BT: Bhutan: 		Asia/Thimphu: 2021-09-03 17:51:04.532870+06:00
+BV: Bouvet Island: 		No time zone defined
+BW: Botswana: 		Africa/Gaborone: 2021-09-03 13:51:04.532870+02:00
+BY: Belarus: 		Europe/Minsk: 2021-09-03 14:51:04.533870+03:00
+BZ: Belize: 		America/Belize: 2021-09-03 05:51:04.533870-06:00
+CA: Canada: 		America/Atikokan: 2021-09-03 06:51:04.534871-05:00
+		America/Blanc-Sablon: 2021-09-03 07:51:04.534871-04:00
+		America/Cambridge_Bay: 2021-09-03 05:51:04.535872-06:00
+		America/Creston: 2021-09-03 04:51:04.535872-07:00
+		America/Dawson: 2021-09-03 04:51:04.535872-07:00
+		America/Dawson_Creek: 2021-09-03 04:51:04.536873-07:00
+		America/Edmonton: 2021-09-03 05:51:04.536873-06:00
+		America/Fort_Nelson: 2021-09-03 04:51:04.537873-07:00
+		America/Glace_Bay: 2021-09-03 08:51:04.537873-03:00
+		America/Goose_Bay: 2021-09-03 08:51:04.538874-03:00
+		America/Halifax: 2021-09-03 08:51:04.539875-03:00
+		America/Inuvik: 2021-09-03 05:51:04.539875-06:00
+		America/Iqaluit: 2021-09-03 07:51:04.540876-04:00
+		America/Moncton: 2021-09-03 08:51:04.540876-03:00
+		America/Nipigon: 2021-09-03 07:51:04.541877-04:00
+		America/Pangnirtung: 2021-09-03 07:51:04.541877-04:00
+		America/Rainy_River: 2021-09-03 06:51:04.542878-05:00
+		America/Rankin_Inlet: 2021-09-03 06:51:04.542878-05:00
+		America/Regina: 2021-09-03 05:51:04.543879-06:00
+		America/Resolute: 2021-09-03 06:51:04.543879-05:00
+		America/St_Johns: 2021-09-03 09:21:04.544879-02:30
+		America/Swift_Current: 2021-09-03 05:51:04.544879-06:00
+		America/Thunder_Bay: 2021-09-03 07:51:04.545880-04:00
+		America/Toronto: 2021-09-03 07:51:04.546881-04:00
+		America/Vancouver: 2021-09-03 04:51:04.546881-07:00
+		America/Whitehorse: 2021-09-03 04:51:04.547882-07:00
+		America/Winnipeg: 2021-09-03 06:51:04.547882-05:00
+		America/Yellowknife: 2021-09-03 05:51:04.548883-06:00
+CC: Cocos (Keeling) Islands: 		Indian/Cocos: 2021-09-03 18:21:04.548883+06:30
+CD: Congo (Dem. Rep.): 		Africa/Kinshasa: 2021-09-03 12:51:04.549883+01:00
+		Africa/Lubumbashi: 2021-09-03 13:51:04.549883+02:00
+CF: Central African Rep.: 		Africa/Bangui: 2021-09-03 12:51:04.549883+01:00
+CG: Congo (Rep.): 		Africa/Brazzaville: 2021-09-03 12:51:04.550884+01:00
+CH: Switzerland: 		Europe/Zurich: 2021-09-03 13:51:04.550884+02:00
+CI: Côte d'Ivoire: 		Africa/Abidjan: 2021-09-03 11:51:04.550884+00:00
+CK: Cook Islands: 		Pacific/Rarotonga: 2021-09-03 01:51:04.551885-10:00
+CL: Chile: 		America/Punta_Arenas: 2021-09-03 08:51:04.551885-03:00
+		America/Santiago: 2021-09-03 07:51:04.552886-04:00
+		Pacific/Easter: 2021-09-03 05:51:04.552886-06:00
+CM: Cameroon: 		Africa/Douala: 2021-09-03 12:51:04.553887+01:00
+CN: China: 		Asia/Shanghai: 2021-09-03 19:51:04.553887+08:00
+		Asia/Urumqi: 2021-09-03 17:51:04.553887+06:00
+CO: Colombia: 		America/Bogota: 2021-09-03 06:51:04.554888-05:00
+CR: Costa Rica: 		America/Costa_Rica: 2021-09-03 05:51:04.554888-06:00
+CU: Cuba: 		America/Havana: 2021-09-03 07:51:04.555888-04:00
+CV: Cape Verde: 		Atlantic/Cape_Verde: 2021-09-03 10:51:04.555888-01:00
+CW: Curaçao: 		America/Curacao: 2021-09-03 07:51:04.555888-04:00
+CX: Christmas Island: 		Indian/Christmas: 2021-09-03 18:51:04.556889+07:00
+CY: Cyprus: 		Asia/Famagusta: 2021-09-03 14:51:04.556889+03:00
+		Asia/Nicosia: 2021-09-03 14:51:04.557890+03:00
+CZ: Czech Republic: 		Europe/Prague: 2021-09-03 13:51:04.557890+02:00
+DE: Germany: 		Europe/Berlin: 2021-09-03 13:51:04.558891+02:00
+		Europe/Busingen: 2021-09-03 13:51:04.558891+02:00
+DJ: Djibouti: 		Africa/Djibouti: 2021-09-03 14:51:04.558891+03:00
+DK: Denmark: 		Europe/Copenhagen: 2021-09-03 13:51:04.559892+02:00
+DM: Dominica: 		America/Dominica: 2021-09-03 07:51:04.560893-04:00
+DO: Dominican Republic: 		America/Santo_Domingo: 2021-09-03 07:51:04.560893-04:00
+DZ: Algeria: 		Africa/Algiers: 2021-09-03 12:51:04.560893+01:00
+EC: Ecuador: 		America/Guayaquil: 2021-09-03 06:51:04.561893-05:00
+		Pacific/Galapagos: 2021-09-03 05:51:04.561893-06:00
+EE: Estonia: 		Europe/Tallinn: 2021-09-03 14:51:04.562894+03:00
+EG: Egypt: 		Africa/Cairo: 2021-09-03 13:51:04.562894+02:00
+EH: Western Sahara: 		Africa/El_Aaiun: 2021-09-03 12:51:04.563896+01:00
+ER: Eritrea: 		Africa/Asmara: 2021-09-03 14:51:04.563896+03:00
+ES: Spain: 		Africa/Ceuta: 2021-09-03 13:51:04.564896+02:00
+		Atlantic/Canary: 2021-09-03 12:51:04.564896+01:00
+		Europe/Madrid: 2021-09-03 13:51:04.565897+02:00
+ET: Ethiopia: 		Africa/Addis_Ababa: 2021-09-03 14:51:04.565897+03:00
+FI: Finland: 		Europe/Helsinki: 2021-09-03 14:51:04.565897+03:00
+FJ: Fiji: 		Pacific/Fiji: 2021-09-03 23:51:04.566898+12:00
+FK: Falkland Islands: 		Atlantic/Stanley: 2021-09-03 08:51:04.566898-03:00
+FM: Micronesia: 		Pacific/Chuuk: 2021-09-03 21:51:04.567899+10:00
+		Pacific/Kosrae: 2021-09-03 22:51:04.567899+11:00
+		Pacific/Pohnpei: 2021-09-03 22:51:04.567899+11:00
+FO: Faroe Islands: 		Atlantic/Faroe: 2021-09-03 12:51:04.568899+01:00
+FR: France: 		Europe/Paris: 2021-09-03 13:51:04.568899+02:00
+GA: Gabon: 		Africa/Libreville: 2021-09-03 12:51:04.569900+01:00
+GB: Britain (UK): 		Europe/London: 2021-09-03 12:51:04.569900+01:00
+GD: Grenada: 		America/Grenada: 2021-09-03 07:51:04.570901-04:00
+GE: Georgia: 		Asia/Tbilisi: 2021-09-03 15:51:04.570901+04:00
+GF: French Guiana: 		America/Cayenne: 2021-09-03 08:51:04.570901-03:00
+GG: Guernsey: 		Europe/Guernsey: 2021-09-03 12:51:04.571902+01:00
+GH: Ghana: 		Africa/Accra: 2021-09-03 11:51:04.572903+00:00
+GI: Gibraltar: 		Europe/Gibraltar: 2021-09-03 13:51:04.572903+02:00
+GL: Greenland: 		America/Danmarkshavn: 2021-09-03 11:51:04.572903+00:00
+		America/Nuuk: 2021-09-03 09:51:04.573904-02:00
+		America/Scoresbysund: 2021-09-03 11:51:04.573904+00:00
+		America/Thule: 2021-09-03 08:51:04.574905-03:00
+GM: Gambia: 		Africa/Banjul: 2021-09-03 11:51:04.574905+00:00
+GN: Guinea: 		Africa/Conakry: 2021-09-03 11:51:04.574905+00:00
+GP: Guadeloupe: 		America/Guadeloupe: 2021-09-03 07:51:04.575906-04:00
+GQ: Equatorial Guinea: 		Africa/Malabo: 2021-09-03 12:51:04.575906+01:00
+GR: Greece: 		Europe/Athens: 2021-09-03 14:51:04.576907+03:00
+GS: South Georgia & the South Sandwich Islands: 		Atlantic/South_Georgia: 2021-09-03 09:51:04.576907-02:00
+GT: Guatemala: 		America/Guatemala: 2021-09-03 05:51:04.576907-06:00
+GU: Guam: 		Pacific/Guam: 2021-09-03 21:51:04.577907+10:00
+GW: Guinea-Bissau: 		Africa/Bissau: 2021-09-03 11:51:04.577907+00:00
+GY: Guyana: 		America/Guyana: 2021-09-03 07:51:04.577907-04:00
+HK: Hong Kong: 		Asia/Hong_Kong: 2021-09-03 19:51:04.578907+08:00
+HM: Heard Island & McDonald Islands: 		No time zone defined
+HN: Honduras: 		America/Tegucigalpa: 2021-09-03 05:51:04.578907-06:00
+HR: Croatia: 		Europe/Zagreb: 2021-09-03 13:51:04.579908+02:00
+HT: Haiti: 		America/Port-au-Prince: 2021-09-03 07:51:04.579908-04:00
+HU: Hungary: 		Europe/Budapest: 2021-09-03 13:51:04.580909+02:00
+ID: Indonesia: 		Asia/Jakarta: 2021-09-03 18:51:04.580909+07:00
+		Asia/Jayapura: 2021-09-03 20:51:04.580909+09:00
+		Asia/Makassar: 2021-09-03 19:51:04.581910+08:00
+		Asia/Pontianak: 2021-09-03 18:51:04.581910+07:00
+IE: Ireland: 		Europe/Dublin: 2021-09-03 12:51:04.582912+01:00
+IL: Israel: 		Asia/Jerusalem: 2021-09-03 14:51:04.583912+03:00
+IM: Isle of Man: 		Europe/Isle_of_Man: 2021-09-03 12:51:04.583912+01:00
+IN: India: 		Asia/Kolkata: 2021-09-03 17:21:04.584913+05:30
+IO: British Indian Ocean Territory: 		Indian/Chagos: 2021-09-03 17:51:04.584913+06:00
+IQ: Iraq: 		Asia/Baghdad: 2021-09-03 14:51:04.584913+03:00
+IR: Iran: 		Asia/Tehran: 2021-09-03 16:21:04.585914+04:30
+IS: Iceland: 		Atlantic/Reykjavik: 2021-09-03 11:51:04.585914+00:00
+IT: Italy: 		Europe/Rome: 2021-09-03 13:51:04.586914+02:00
+JE: Jersey: 		Europe/Jersey: 2021-09-03 12:51:04.587915+01:00
+JM: Jamaica: 		America/Jamaica: 2021-09-03 06:51:04.587915-05:00
+JO: Jordan: 		Asia/Amman: 2021-09-03 14:51:04.587915+03:00
+JP: Japan: 		Asia/Tokyo: 2021-09-03 20:51:04.588916+09:00
+KE: Kenya: 		Africa/Nairobi: 2021-09-03 14:51:04.588916+03:00
+KG: Kyrgyzstan: 		Asia/Bishkek: 2021-09-03 17:51:04.589917+06:00
+KH: Cambodia: 		Asia/Phnom_Penh: 2021-09-03 18:51:04.589917+07:00
+KI: Kiribati: 		Pacific/Enderbury: 2021-09-04 00:51:04.589917+13:00
+		Pacific/Kiritimati: 2021-09-04 01:51:04.589917+14:00
+		Pacific/Tarawa: 2021-09-03 23:51:04.590918+12:00
+KM: Comoros: 		Indian/Comoro: 2021-09-03 14:51:04.590918+03:00
+KN: St Kitts & Nevis: 		America/St_Kitts: 2021-09-03 07:51:04.590918-04:00
+KP: Korea (North): 		Asia/Pyongyang: 2021-09-03 20:51:04.591918+09:00
+KR: Korea (South): 		Asia/Seoul: 2021-09-03 20:51:04.591918+09:00
+KW: Kuwait: 		Asia/Kuwait: 2021-09-03 14:51:04.591918+03:00
+KY: Cayman Islands: 		America/Cayman: 2021-09-03 06:51:04.592919-05:00
+KZ: Kazakhstan: 		Asia/Almaty: 2021-09-03 17:51:04.592919+06:00
+		Asia/Aqtau: 2021-09-03 16:51:04.593920+05:00
+		Asia/Aqtobe: 2021-09-03 16:51:04.593920+05:00
+		Asia/Atyrau: 2021-09-03 16:51:04.593920+05:00
+		Asia/Oral: 2021-09-03 16:51:04.594921+05:00
+		Asia/Qostanay: 2021-09-03 17:51:04.594921+06:00
+		Asia/Qyzylorda: 2021-09-03 16:51:04.594921+05:00
+LA: Laos: 		Asia/Vientiane: 2021-09-03 18:51:04.595922+07:00
+LB: Lebanon: 		Asia/Beirut: 2021-09-03 14:51:04.595922+03:00
+LC: St Lucia: 		America/St_Lucia: 2021-09-03 07:51:04.596922-04:00
+LI: Liechtenstein: 		Europe/Vaduz: 2021-09-03 13:51:04.596922+02:00
+LK: Sri Lanka: 		Asia/Colombo: 2021-09-03 17:21:04.596922+05:30
+LR: Liberia: 		Africa/Monrovia: 2021-09-03 11:51:04.597924+00:00
+LS: Lesotho: 		Africa/Maseru: 2021-09-03 13:51:04.597924+02:00
+LT: Lithuania: 		Europe/Vilnius: 2021-09-03 14:51:04.597924+03:00
+LU: Luxembourg: 		Europe/Luxembourg: 2021-09-03 13:51:04.598925+02:00
+LV: Latvia: 		Europe/Riga: 2021-09-03 14:51:04.599926+03:00
+LY: Libya: 		Africa/Tripoli: 2021-09-03 13:51:04.599926+02:00
+MA: Morocco: 		Africa/Casablanca: 2021-09-03 12:51:04.600926+01:00
+MC: Monaco: 		Europe/Monaco: 2021-09-03 13:51:04.600926+02:00
+MD: Moldova: 		Europe/Chisinau: 2021-09-03 14:51:04.601927+03:00
+ME: Montenegro: 		Europe/Podgorica: 2021-09-03 13:51:04.601927+02:00
+MF: St Martin (French): 		America/Marigot: 2021-09-03 07:51:04.601927-04:00
+MG: Madagascar: 		Indian/Antananarivo: 2021-09-03 14:51:04.602927+03:00
+MH: Marshall Islands: 		Pacific/Kwajalein: 2021-09-03 23:51:04.602927+12:00
+		Pacific/Majuro: 2021-09-03 23:51:04.602927+12:00
+MK: North Macedonia: 		Europe/Skopje: 2021-09-03 13:51:04.603928+02:00
+ML: Mali: 		Africa/Bamako: 2021-09-03 11:51:04.603928+00:00
+MM: Myanmar (Burma): 		Asia/Yangon: 2021-09-03 18:21:04.603928+06:30
+MN: Mongolia: 		Asia/Choibalsan: 2021-09-03 19:51:04.604929+08:00
+		Asia/Hovd: 2021-09-03 18:51:04.604929+07:00
+		Asia/Ulaanbaatar: 2021-09-03 19:51:04.605930+08:00
+MO: Macau: 		Asia/Macau: 2021-09-03 19:51:04.605930+08:00
+MP: Northern Mariana Islands: 		Pacific/Saipan: 2021-09-03 21:51:04.606931+10:00
+MQ: Martinique: 		America/Martinique: 2021-09-03 07:51:04.606931-04:00
+MR: Mauritania: 		Africa/Nouakchott: 2021-09-03 11:51:04.606931+00:00
+MS: Montserrat: 		America/Montserrat: 2021-09-03 07:51:04.606931-04:00
+MT: Malta: 		Europe/Malta: 2021-09-03 13:51:04.607932+02:00
+MU: Mauritius: 		Indian/Mauritius: 2021-09-03 15:51:04.607932+04:00
+MV: Maldives: 		Indian/Maldives: 2021-09-03 16:51:04.608932+05:00
+MW: Malawi: 		Africa/Blantyre: 2021-09-03 13:51:04.608932+02:00
+MX: Mexico: 		America/Bahia_Banderas: 2021-09-03 06:51:04.608932-05:00
+		America/Cancun: 2021-09-03 06:51:04.609933-05:00
+		America/Chihuahua: 2021-09-03 05:51:04.609933-06:00
+		America/Hermosillo: 2021-09-03 04:51:04.610934-07:00
+		America/Matamoros: 2021-09-03 06:51:04.610934-05:00
+		America/Mazatlan: 2021-09-03 05:51:04.611935-06:00
+		America/Merida: 2021-09-03 06:51:04.611935-05:00
+		America/Mexico_City: 2021-09-03 06:51:04.612936-05:00
+		America/Monterrey: 2021-09-03 06:51:04.612936-05:00
+		America/Ojinaga: 2021-09-03 05:51:04.613937-06:00
+		America/Tijuana: 2021-09-03 04:51:04.613937-07:00
+MY: Malaysia: 		Asia/Kuala_Lumpur: 2021-09-03 19:51:04.613937+08:00
+		Asia/Kuching: 2021-09-03 19:51:04.614938+08:00
+MZ: Mozambique: 		Africa/Maputo: 2021-09-03 13:51:04.614938+02:00
+NA: Namibia: 		Africa/Windhoek: 2021-09-03 13:51:04.615939+02:00
+NC: New Caledonia: 		Pacific/Noumea: 2021-09-03 22:51:04.615939+11:00
+NE: Niger: 		Africa/Niamey: 2021-09-03 12:51:04.615939+01:00
+NF: Norfolk Island: 		Pacific/Norfolk: 2021-09-03 22:51:04.616940+11:00
+NG: Nigeria: 		Africa/Lagos: 2021-09-03 12:51:04.616940+01:00
+NI: Nicaragua: 		America/Managua: 2021-09-03 05:51:04.616940-06:00
+NL: Netherlands: 		Europe/Amsterdam: 2021-09-03 13:51:04.617940+02:00
+NO: Norway: 		Europe/Oslo: 2021-09-03 13:51:04.618941+02:00
+NP: Nepal: 		Asia/Kathmandu: 2021-09-03 17:36:04.618941+05:45
+NR: Nauru: 		Pacific/Nauru: 2021-09-03 23:51:04.618941+12:00
+NU: Niue: 		Pacific/Niue: 2021-09-03 00:51:04.618941-11:00
+NZ: New Zealand: 		Pacific/Auckland: 2021-09-03 23:51:04.619941+12:00
+		Pacific/Chatham: 2021-09-04 00:36:04.619941+12:45
+OM: Oman: 		Asia/Muscat: 2021-09-03 15:51:04.620942+04:00
+PA: Panama: 		America/Panama: 2021-09-03 06:51:04.620942-05:00
+PE: Peru: 		America/Lima: 2021-09-03 06:51:04.620942-05:00
+PF: French Polynesia: 		Pacific/Gambier: 2021-09-03 02:51:04.621943-09:00
+		Pacific/Marquesas: 2021-09-03 02:21:04.621943-09:30
+		Pacific/Tahiti: 2021-09-03 01:51:04.621943-10:00
+PG: Papua New Guinea: 		Pacific/Bougainville: 2021-09-03 22:51:04.622944+11:00
+		Pacific/Port_Moresby: 2021-09-03 21:51:04.622944+10:00
+PH: Philippines: 		Asia/Manila: 2021-09-03 19:51:04.622944+08:00
+PK: Pakistan: 		Asia/Karachi: 2021-09-03 16:51:04.623946+05:00
+PL: Poland: 		Europe/Warsaw: 2021-09-03 13:51:04.623946+02:00
+PM: St Pierre & Miquelon: 		America/Miquelon: 2021-09-03 09:51:04.624946-02:00
+PN: Pitcairn: 		Pacific/Pitcairn: 2021-09-03 03:51:04.624946-08:00
+PR: Puerto Rico: 		America/Puerto_Rico: 2021-09-03 07:51:04.624946-04:00
+PS: Palestine: 		Asia/Gaza: 2021-09-03 14:51:04.625947+03:00
+		Asia/Hebron: 2021-09-03 14:51:04.625947+03:00
+PT: Portugal: 		Atlantic/Azores: 2021-09-03 11:51:04.626948+00:00
+		Atlantic/Madeira: 2021-09-03 12:51:04.627948+01:00
+		Europe/Lisbon: 2021-09-03 12:51:04.628949+01:00
+PW: Palau: 		Pacific/Palau: 2021-09-03 20:51:04.628949+09:00
+PY: Paraguay: 		America/Asuncion: 2021-09-03 07:51:04.629950-04:00
+QA: Qatar: 		Asia/Qatar: 2021-09-03 14:51:04.629950+03:00
+RE: Réunion: 		Indian/Reunion: 2021-09-03 15:51:04.630951+04:00
+RO: Romania: 		Europe/Bucharest: 2021-09-03 14:51:04.630951+03:00
+RS: Serbia: 		Europe/Belgrade: 2021-09-03 13:51:04.631952+02:00
+RU: Russia: 		Asia/Anadyr: 2021-09-03 23:51:04.631952+12:00
+		Asia/Barnaul: 2021-09-03 18:51:04.632953+07:00
+		Asia/Chita: 2021-09-03 20:51:04.632953+09:00
+		Asia/Irkutsk: 2021-09-03 19:51:04.633954+08:00
+		Asia/Kamchatka: 2021-09-03 23:51:04.633954+12:00
+		Asia/Khandyga: 2021-09-03 20:51:04.634954+09:00
+		Asia/Krasnoyarsk: 2021-09-03 18:51:04.634954+07:00
+		Asia/Magadan: 2021-09-03 22:51:04.634954+11:00
+		Asia/Novokuznetsk: 2021-09-03 18:51:04.635955+07:00
+		Asia/Novosibirsk: 2021-09-03 18:51:04.635955+07:00
+		Asia/Omsk: 2021-09-03 17:51:04.636956+06:00
+		Asia/Sakhalin: 2021-09-03 22:51:04.637956+11:00
+		Asia/Srednekolymsk: 2021-09-03 22:51:04.638957+11:00
+		Asia/Tomsk: 2021-09-03 18:51:04.638957+07:00
+		Asia/Ust-Nera: 2021-09-03 21:51:04.638957+10:00
+		Asia/Vladivostok: 2021-09-03 21:51:04.639958+10:00
+		Asia/Yakutsk: 2021-09-03 20:51:04.639958+09:00
+		Asia/Yekaterinburg: 2021-09-03 16:51:04.640959+05:00
+		Europe/Astrakhan: 2021-09-03 15:51:04.640959+04:00
+		Europe/Kaliningrad: 2021-09-03 13:51:04.640959+02:00
+		Europe/Kirov: 2021-09-03 14:51:04.641960+03:00
+		Europe/Moscow: 2021-09-03 14:51:04.641960+03:00
+		Europe/Samara: 2021-09-03 15:51:04.641960+04:00
+		Europe/Saratov: 2021-09-03 15:51:04.641960+04:00
+		Europe/Ulyanovsk: 2021-09-03 15:51:04.642961+04:00
+		Europe/Volgograd: 2021-09-03 14:51:04.642961+03:00
+RW: Rwanda: 		Africa/Kigali: 2021-09-03 13:51:04.643961+02:00
+SA: Saudi Arabia: 		Asia/Riyadh: 2021-09-03 14:51:04.643961+03:00
+SB: Solomon Islands: 		Pacific/Guadalcanal: 2021-09-03 22:51:04.643961+11:00
+SC: Seychelles: 		Indian/Mahe: 2021-09-03 15:51:04.643961+04:00
+SD: Sudan: 		Africa/Khartoum: 2021-09-03 13:51:04.644962+02:00
+SE: Sweden: 		Europe/Stockholm: 2021-09-03 13:51:04.644962+02:00
+SG: Singapore: 		Asia/Singapore: 2021-09-03 19:51:04.645963+08:00
+SH: St Helena: 		Atlantic/St_Helena: 2021-09-03 11:51:04.645963+00:00
+SI: Slovenia: 		Europe/Ljubljana: 2021-09-03 13:51:04.645963+02:00
+SJ: Svalbard & Jan Mayen: 		Arctic/Longyearbyen: 2021-09-03 13:51:04.646964+02:00
+SK: Slovakia: 		Europe/Bratislava: 2021-09-03 13:51:04.646964+02:00
+SL: Sierra Leone: 		Africa/Freetown: 2021-09-03 11:51:04.647966+00:00
+SM: San Marino: 		Europe/San_Marino: 2021-09-03 13:51:04.647966+02:00
+SN: Senegal: 		Africa/Dakar: 2021-09-03 11:51:04.648966+00:00
+SO: Somalia: 		Africa/Mogadishu: 2021-09-03 14:51:04.648966+03:00
+SR: Suriname: 		America/Paramaribo: 2021-09-03 08:51:04.648966-03:00
+SS: South Sudan: 		Africa/Juba: 2021-09-03 13:51:04.649966+02:00
+ST: Sao Tome & Principe: 		Africa/Sao_Tome: 2021-09-03 11:51:04.649966+00:00
+SV: El Salvador: 		America/El_Salvador: 2021-09-03 05:51:04.649966-06:00
+SX: St Maarten (Dutch): 		America/Lower_Princes: 2021-09-03 07:51:04.649966-04:00
+SY: Syria: 		Asia/Damascus: 2021-09-03 14:51:04.650967+03:00
+SZ: Eswatini (Swaziland): 		Africa/Mbabane: 2021-09-03 13:51:04.650967+02:00
+TC: Turks & Caicos Is: 		America/Grand_Turk: 2021-09-03 07:51:04.651968-04:00
+TD: Chad: 		Africa/Ndjamena: 2021-09-03 12:51:04.651968+01:00
+TF: French Southern & Antarctic Lands: 		Indian/Kerguelen: 2021-09-03 16:51:04.651968+05:00
+TG: Togo: 		Africa/Lome: 2021-09-03 11:51:04.652969+00:00
+TH: Thailand: 		Asia/Bangkok: 2021-09-03 18:51:04.652969+07:00
+TJ: Tajikistan: 		Asia/Dushanbe: 2021-09-03 16:51:04.652969+05:00
+TK: Tokelau: 		Pacific/Fakaofo: 2021-09-04 00:51:04.653970+13:00
+TL: East Timor: 		Asia/Dili: 2021-09-03 20:51:04.653970+09:00
+TM: Turkmenistan: 		Asia/Ashgabat: 2021-09-03 16:51:04.653970+05:00
+TN: Tunisia: 		Africa/Tunis: 2021-09-03 12:51:04.654970+01:00
+TO: Tonga: 		Pacific/Tongatapu: 2021-09-04 00:51:04.654970+13:00
+TR: Turkey: 		Europe/Istanbul: 2021-09-03 14:51:04.655971+03:00
+TT: Trinidad & Tobago: 		America/Port_of_Spain: 2021-09-03 07:51:04.655971-04:00
+TV: Tuvalu: 		Pacific/Funafuti: 2021-09-03 23:51:04.655971+12:00
+TW: Taiwan: 		Asia/Taipei: 2021-09-03 19:51:04.656972+08:00
+TZ: Tanzania: 		Africa/Dar_es_Salaam: 2021-09-03 14:51:04.656972+03:00
+UA: Ukraine: 		Europe/Kiev: 2021-09-03 14:51:04.656972+03:00
+		Europe/Simferopol: 2021-09-03 14:51:04.657973+03:00
+		Europe/Uzhgorod: 2021-09-03 14:51:04.657973+03:00
+		Europe/Zaporozhye: 2021-09-03 14:51:04.658974+03:00
+UG: Uganda: 		Africa/Kampala: 2021-09-03 14:51:04.658974+03:00
+UM: US minor outlying islands: 		Pacific/Midway: 2021-09-03 00:51:04.658974-11:00
+		Pacific/Wake: 2021-09-03 23:51:04.659975+12:00
+US: United States: 		America/Adak: 2021-09-03 02:51:04.659975-09:00
+		America/Anchorage: 2021-09-03 03:51:04.660975-08:00
+		America/Boise: 2021-09-03 05:51:04.660975-06:00
+		America/Chicago: 2021-09-03 06:51:04.661976-05:00
+		America/Denver: 2021-09-03 05:51:04.662977-06:00
+		America/Detroit: 2021-09-03 07:51:04.662977-04:00
+		America/Indiana/Indianapolis: 2021-09-03 07:51:04.663978-04:00
+		America/Indiana/Knox: 2021-09-03 06:51:04.663978-05:00
+		America/Indiana/Marengo: 2021-09-03 07:51:04.664979-04:00
+		America/Indiana/Petersburg: 2021-09-03 07:51:04.664979-04:00
+		America/Indiana/Tell_City: 2021-09-03 06:51:04.665980-05:00
+		America/Indiana/Vevay: 2021-09-03 07:51:04.665980-04:00
+		America/Indiana/Vincennes: 2021-09-03 07:51:04.665980-04:00
+		America/Indiana/Winamac: 2021-09-03 07:51:04.666981-04:00
+		America/Juneau: 2021-09-03 03:51:04.667982-08:00
+		America/Kentucky/Louisville: 2021-09-03 07:51:04.667982-04:00
+		America/Kentucky/Monticello: 2021-09-03 07:51:04.668982-04:00
+		America/Los_Angeles: 2021-09-03 04:51:04.668982-07:00
+		America/Menominee: 2021-09-03 06:51:04.669983-05:00
+		America/Metlakatla: 2021-09-03 03:51:04.669983-08:00
+		America/New_York: 2021-09-03 07:51:04.670984-04:00
+		America/Nome: 2021-09-03 03:51:04.671985-08:00
+		America/North_Dakota/Beulah: 2021-09-03 06:51:04.671985-05:00
+		America/North_Dakota/Center: 2021-09-03 06:51:04.672985-05:00
+		America/North_Dakota/New_Salem: 2021-09-03 06:51:04.672985-05:00
+		America/Phoenix: 2021-09-03 04:51:04.672985-07:00
+		America/Sitka: 2021-09-03 03:51:04.673986-08:00
+		America/Yakutat: 2021-09-03 03:51:04.674987-08:00
+		Pacific/Honolulu: 2021-09-03 01:51:04.674987-10:00
+UY: Uruguay: 		America/Montevideo: 2021-09-03 08:51:04.674987-03:00
+UZ: Uzbekistan: 		Asia/Samarkand: 2021-09-03 16:51:04.675988+05:00
+		Asia/Tashkent: 2021-09-03 16:51:04.675988+05:00
+VA: Vatican City: 		Europe/Vatican: 2021-09-03 13:51:04.676989+02:00
+VC: St Vincent: 		America/St_Vincent: 2021-09-03 07:51:04.676989-04:00
+VE: Venezuela: 		America/Caracas: 2021-09-03 07:51:04.676989-04:00
+VG: Virgin Islands (UK): 		America/Tortola: 2021-09-03 07:51:04.677990-04:00
+VI: Virgin Islands (US): 		America/St_Thomas: 2021-09-03 07:51:04.677990-04:00
+VN: Vietnam: 		Asia/Ho_Chi_Minh: 2021-09-03 18:51:04.677990+07:00
+VU: Vanuatu: 		Pacific/Efate: 2021-09-03 22:51:04.678990+11:00
+WF: Wallis & Futuna: 		Pacific/Wallis: 2021-09-03 23:51:04.678990+12:00
+WS: Samoa (western): 		Pacific/Apia: 2021-09-04 00:51:04.678990+13:00
+YE: Yemen: 		Asia/Aden: 2021-09-03 14:51:04.679991+03:00
+YT: Mayotte: 		Indian/Mayotte: 2021-09-03 14:51:04.679991+03:00
+ZA: South Africa: 		Africa/Johannesburg: 2021-09-03 13:51:04.679991+02:00
+ZM: Zambia: 		Africa/Lusaka: 2021-09-03 13:51:04.680992+02:00
+ZW: Zimbabwe: 		Africa/Harare: 2021-09-03 13:51:04.680992+02:00
