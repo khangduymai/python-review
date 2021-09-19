@@ -4,12 +4,12 @@ class  Kettle(object):
 
     # Attributes are created inside the class
 
-    # Creating class attributes
+    # Creating class attributes (class varialbe) below
 
     power_source = "ELECTRICITY"
 
     # __init__ to create instance attributes
-    # The __init__ method is used to initialize an instance
+    # The __init__ method is used to initialize an instance (constructor)
     # make and price in the below example are instance attributes (instance variable)
     def __init__(self, make, price):
         self.make = make
@@ -47,7 +47,9 @@ print("The power source of {} is {}".format(Kettle, Kettle.power_source))
 print()
 
 print("The list of attributes of object: {} is {}".format(kenwood, kenwood.__dict__))
+print()
 print("The list of attributes of object: {} is {}".format(hamilton, hamilton.__dict__))
+print()
 print("The list of attributes of object: {} is {}".format(Kettle, Kettle.__dict__))
 print()
 
@@ -88,7 +90,7 @@ print()
 print(dir())
 
 # %%
-
+print("-------------------------ATTRIBUTES IN CLASS-------------------------")
 class Robot():
     pass
 
@@ -115,4 +117,21 @@ print('Brand of y object: ', y.brand)
 print("y.__dict__ ", y.__dict__)
 
 
+#%%
 
+class Dog():
+    _name = 'hello cho'
+
+    def __init__(self, _n):
+        self._n = _n
+    
+
+cho = Dog("VL")
+
+print(cho)
+print()
+# print(cho.__dict__)
+# print(dir(Dog))
+
+
+# %%

@@ -1,6 +1,6 @@
 #%%
 # Python module to execute
-import file_two
+import file_two_main
 # from file_two import function_three
 
 # print("File one __name__ is set to: {}" .format(__name__))
