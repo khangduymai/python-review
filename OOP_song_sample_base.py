@@ -116,32 +116,34 @@ def load_data():
 
             if new_artist is None:
                 new_artist = Artist(artist_field) #1000 Maniacs
-                artist_list.append(new_artist)
             elif new_artist.name != artist_field:
                 # we've just read details for a new artist
-                # (NEW METHOD) retrieve the artist object if there is one, 
-                # otherwise, create a new artist object and add it to the artist list.
-                new_artist = find_object(artist_field, artist_list)
-                if new_artist is None:
-                    new_artist = Artist(artist_field)
-                    artist_list.append(new_artist) 
-                    new_album = None
+                # store the current album in the current artist collection then creating a new artist obj 
+                new_artist.add_album(new_album) 
+                artist_list.append(new_artist) 
+                new_artist = Artist(artist_field) 
+                new_album = None 
 
             if new_album is None:
                 new_album = Album(album_field, year_field, new_artist)
-                new_artist.add_album(new_album)
+
             elif new_album.name != album_field: # Our Time in Eden
                 # we've just read a new ablum for the current artist
-                # retrieve album object if there is one
-                # otherwise create a new album object and store it in the artist's collection
-                new_album = find_object(album_field, new_artist.albums)
-                if new_album is None:
-                    new_album = Album(album_field, year_field, new_artist)  
-                    new_artist.add_album(new_album)
-         
+                # store the current album in the current artist collection then creating a new album obj
+                new_artist.add_album(new_album)
+                new_album = Album(album_field, year_field, new_artist)          
+
+
             # create a new song object and add it to the current album's collection
             new_song = Song(song_field, new_artist)
-            new_album.add_song(new_song)     
+            new_album.add_song(new_song)
+
+        # After reading the last line of the text file, we will have an artist and album that have not
+        # been stored - process them now
+        if new_artist is not None:
+            if new_album is not None:
+                new_artist.add_album(new_album)
+            artist_list.append(new_artist)
 
     return artist_list
 
@@ -169,3 +171,5 @@ if __name__ == '__main__':
     print(len(artists))
 
     create_checkfile(artists)
+
+# %%

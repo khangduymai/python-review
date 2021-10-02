@@ -71,6 +71,14 @@ print()
 
 print("------------------------------------------------")
 #%%
+
+carts = {
+    "chicken" : 2,
+    "salad" : 1,
+    "beef" : 5,
+    "onion" : 10,
+    "ONIOn" : 1,
+}
 #Return a turple in a list of turple 
 carts_view = carts.items()
 
