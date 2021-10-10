@@ -126,7 +126,6 @@ def load_data():
 
             if new_album is None:
                 new_album = Album(album_field, year_field, new_artist)
-
             elif new_album.name != album_field: # Our Time in Eden
                 # we've just read a new ablum for the current artist
                 # store the current album in the current artist collection then creating a new album obj
